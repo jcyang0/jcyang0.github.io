@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Julia C. Yang"
-  avatar : "/assets/images/profile_photo.JPG"
+  avatar : "/assets/images/bio-photo.jpg"
   bio    : "Postdoctoral Reseracher <br /> University of California, Berkeley"
   links:
     - label: "Email"
@@ -68,7 +68,7 @@ author:
       url: "https://scholar.google.com/citations?user=a7F5bKYAAAAJ&hl=en&authuser=1"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/yanghuikang"
+      url: "https://github.com/jcyang0"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jujyang"
@@ -76,7 +76,7 @@ author:
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/Julia_C_Yang"
     - label: "Research Gate"
-      icon: "fa-brands fa-researchgate"
+      icon: "<i class="fa-brands fa-researchgate"></i>"
       url: "https://www.researchgate.net/profile/Julia-Yang-2"
       
 footer:
