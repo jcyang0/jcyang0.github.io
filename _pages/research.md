@@ -1,12 +1,10 @@
 ---
 permalink: /research/
-author_profile: false
+author_profile: true
 type: page
 classes: wide
 layout: single
-#title: ""
-#header:
-    #overlay_image: /assets/images/header_photo.jpg
+
 
 feature_row1:
   - image_path: # assets/images/bio-photo.jpg

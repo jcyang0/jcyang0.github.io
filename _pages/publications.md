@@ -5,8 +5,6 @@ author_profile: true
 type: page
 classes: wide
 layout: single
-#header:
-    #overlay_image: /assets/images/header_photo.jpeg
 
 ---
 
