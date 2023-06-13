@@ -75,15 +75,24 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter"
       url: "https://twitter.com/Julia_C_Yang"
-    - #label: "Research Gate"
-      #icon: "<i class="fa-brands fa-researchgate"></i>"
-      #url: "https://www.researchgate.net/profile/Julia-Yang-2"
+    - label: "Research Gate"
+      icon: "<i class="fab fa-researchgate"></i>"
+      url: "https://www.researchgate.net/profile/Julia-Yang-2"
       
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "julia.yang@utah.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jcyang0"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/jujyang"
+    - label: "Research Gate"
+      icon: "<i class="fab fa-researchgate"></i>"
+      url: "https://www.researchgate.net/profile/Julia-Yang-2"
 
 defaults:
   # _posts
