@@ -1,11 +1,11 @@
 ---
 permalink: /publications/
-title: "Publications"
+#title: "Publications"
 author_profile: false
 type: page
 classes: wide
 layout: single
-header:
+#header:
     #overlay_image: /assets/images/header_photo.jpeg
 
 ---

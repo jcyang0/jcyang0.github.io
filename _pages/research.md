@@ -4,8 +4,8 @@ author_profile: false
 type: page
 classes: wide
 layout: single
-title: "Research"
-header:
+#title: ""
+#header:
     #overlay_image: /assets/images/header_photo.jpg
 
 feature_row1:
