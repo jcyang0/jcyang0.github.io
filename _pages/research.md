@@ -6,7 +6,7 @@ classes: wide
 layout: single
 title: "Research"
 header:
-    overlay_image: /assets/images/header_photo.jpg
+    #overlay_image: /assets/images/header_photo.jpg
 
 feature_row1:
   - image_path: # assets/images/bio-photo.jpg
