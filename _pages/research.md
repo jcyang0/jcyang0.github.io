@@ -13,11 +13,11 @@ feature_row1:
 
 feature_row2:
   - title: "Estimation of photosynthis using Solar-Induced Fluorescence (SIF)"
-    excerpt: 
+    excerpt: This work
 
 feature_row3:
   - title: "Seasonal changes in forest carbon flux dynamics across North America"
-    excerpt:  
+    excerpt:  This 
 ---
 
 {% include feature_row id="feature_row1" %}  
