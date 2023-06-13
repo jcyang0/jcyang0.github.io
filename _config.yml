@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "Julia C. Yang"
   avatar : "/assets/images/Julia Yang- Bowling.jpg"
-  bio    : "Postdoctoral Reseracher <br /> University of California, Berkeley"
+  bio    : "Postdoctoral Reseracher <br /> University of California, Berkeley" <br /> Department of Environmental <br /> Science, Policy & Management
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:julia.yang@utah.edu"
+      url: <a href="mailto:julia.yang@utah.com">contact me</a>
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=a7F5bKYAAAAJ&hl=en&authuser=1"
