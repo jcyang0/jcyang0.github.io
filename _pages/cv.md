@@ -8,4 +8,4 @@ classes:  wide
 
 ---
 
-<pdf src="CV_061223.pdf" align="center"> 
+<object data="../assets/CV_061223.pdf" width="1000" height="1000" type='application/pdf'></object>
