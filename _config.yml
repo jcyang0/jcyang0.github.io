@@ -62,7 +62,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: <a href="mailto:julia.yang@utah.com">contact me</a>
+      url: "mailto:julia.yang@utah.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=a7F5bKYAAAAJ&hl=en&authuser=1"
