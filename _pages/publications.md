@@ -1,12 +1,13 @@
 ---
-# permalink: /publications/
-title: "Publications"
+permalink: /publications/
+# title: "Publications"
 author_profile: true
 type: page
 classes: wide
 layout: single
 
 ---
+## Publications 
 
 [7] **Yang, J.C.**, Magney, T.S., Albert, L.P., Richardson, A.D., Frankenberg, C., Stutz, J., Grossman, K., Burns, S.P., B., Seyednasrollah, Blanken, P.D., Bowling, D.R. (2022).  Gross primary production (GPP) and red solar induced fluorescence (SIF) respond differently to light and seasonal environmental conditions in a subalpine conifer forest. Agricultural and Forest Meteorology.
 
