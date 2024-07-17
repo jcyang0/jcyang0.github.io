@@ -8,4 +8,4 @@ classes:  wide
 
 ---
 
-<object data="../assets/CV_061223.pdf" width="1000" height="1000" type='application/pdf'></object>
+<object data="../assets/CV_postdoc_071724.pdf" width="1000" height="1000" type='application/pdf'></object>

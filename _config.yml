@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Julia Yang
-email: julia.yang@utah.edu
+email: julia.yang@berkeley.edu
 description: >- # this means to ignore newlines until "baseurl:"
   I am a postdoctoral researcher at UC Berkeley interested in nature-based climate solutions (NbCS).
 # twitter_username: username
@@ -58,11 +58,11 @@ plugins:
 author:
   name   : "Julia C. Yang"
   avatar : "/assets/images/Julia Yang- Bowling.jpg"
-  bio    : "Postdoctoral Researcher <br /> University of California, Berkeley <br />  julia.yang@utah.edu"
+  bio    : "Postdoctoral Researcher <br /> University of California, Berkeley <br />  julia.yang@berkeley.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "julia.yang@utah.edu"
+      url: "julia.yang@berkeley.edu"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=a7F5bKYAAAAJ&hl=en&authuser=1"
@@ -83,7 +83,7 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "julia.yang@utah.edu"
+      url: "julia.yang@berkeley.edu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jcyang0"
