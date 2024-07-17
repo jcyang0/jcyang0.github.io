@@ -9,13 +9,13 @@ title: Research Projects
 
 feature_row1:
   - image_path: assets/images/hall_ashton.jpg
-  - title: "Technology Enabled Tropical Reforestation for Climate Change Mitigation and Adaptation"
+    title: "Technology Enabled Tropical Reforestation for Climate Change Mitigation and Adaptation"
     excerpt: >
     My current research focuses on Nature based Climate Solutions (NbCS) that increase carbon storage while restoring healthy ecosystems and biodiversity.  However, assessing the potential and impacts of NbCS projects is complex and large uncertainties remain a major barrier to successful implementation.  This research seeks to develop predictive tools based on process-based demographic vegetation modeling (CLM-FATES) to support robust, scalable, and credible reforestation strategies in tropical ecosystems.  We are using this model to simulate which planting and management strategies optimize the balance between 1) maximizing carbon gain in the short term, 2) minimizing cost, and 3) achieving a healthy & biodiverse native forest in the long term.  This can help to ensure both the financial viability and ecological co-benefits of a carbon removal project.
 
 feature_row2:
   - image_path: assets/images/hardiman.jpg
-  - title: "Improving photosynthesis estimation and scaling in evergreen conifer forests using proximal remote sensing"
+    title: "Improving photosynthesis estimation and scaling in evergreen conifer forests using proximal remote sensing"
     excerpt: >
     Accurate modeling of ecosystem C cycling depends on our ability to understand seasonal changes in photosynthetic function, and how these changes are driven by environmental factors such as water stress.  Typically, photosynthetic processes are investigated by sub-disciplines that use different methodologies to focus in on specific spatial and tempora scales, however it becomes challenging to then reconcile estimates obtained across these different scales. Proximal remote sensing employs the same methods used in large-scale remote sensing, but from a much shorter distance, such as at the leaf surface or from ground-based towers. Thus, mechanistic insight behind promising novel spectral signals such as solar insuced fluorescence (SIF) or the photochemical reflectance index (PRI) can be assessed on the ground at high temporal resolution.  These newer remote sensing based indices of plant function are linked to the functional status of leaves rather than simply pigment content and may be more sensitive to dynamic stress-mediated reductions in photosynthesis of conifer trees. In this research we compared seasonal fluctuations SIF, PRI, and photosynthesis in conifer trees at both the canopy scale and leaf scale to explore mechanisms linking SIF, photosynthesis, and photoprotection across seasons and in response to drought.  Ultimately, mechanistic insights gained can be extrapolated in remote sensing studies to provide a functional understanding of broad-scale ecosystem dynamics and improve C modeling.
     <br />
@@ -25,7 +25,7 @@ feature_row2:
 
 feature_row3:
   - image_path: assets/images/Niwot_tower.jpg
-  - title: "Seasonal changes in forest carbon flux dynamics across North America"
+     title: "Seasonal changes in forest carbon flux dynamics across North America"
     excerpt:  >
     Seasonal snow cover is important in shaping ecosystem carbon uptake across many regions of the world, however forest response to projected declines in snowpack remain uncertain.  We studied the response of forest productivity to interannual and spatial variability in snow cover, timing of snowmelt, and length of the growing season.  We combined carbon flux (eddy covariance) and weather data from 14 temperate deciduous and evergreen forests in the US and southeast Canada with snow and precipitation from the Snow Data Assimilation System (SNODAS). Results showed that the capacity for plants to gain more carbon during a longer growing season appears to be dependent on soil water status determined by long-term climate, rather than interannual fluctuations in weather.  We did not find evidence that the magnitude of the snowpack had a legacy effect on subsequent active season productivity.  We highlight that there was large interannual variability both within and between sites that was not well explained by seasonal climate or phenology. 
     <br />
