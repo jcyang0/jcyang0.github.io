@@ -5,8 +5,7 @@ permalink: /cv/
 author_profile: true
 type:  page
 classes:  wide
-header:
-    overlay_image: /assets/images/banner.jpg
+
 
 ---
 
