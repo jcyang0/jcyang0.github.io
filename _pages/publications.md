@@ -20,7 +20,7 @@ header:
 [4] Smith, W. K., Dannenberg, M. P., Yan, D., Herrmann, S., Barnes, M. L, Barron-Gafford, G. A., 
 Biederman, J. A., Ferrenberg, S., Fox, A. M., Hudson, A. R., Knowles, J. F., MacBean, N., Moore, D. J., Nagler, P. L., Reed, S. C., Rutherford, W. A., Scott, R. L., Wang, X., **Yang, J.**  (2019) Remote sensing of dryland ecosystem structure and function: Progress, challenges and opportunities.  Remote Sensing of Environment, 233, 111401. [https://doi.org/10.1016/j.rse.2019.111401](https://doi.org/10.1016/j.rse.2019.111401)
 
-[3] Liebman, E., **Yang, J.**, Nave, L. E., Nadelhoffer, K. J., & Gough, C. M. (2017). Soil respiration in upper Great Lakes old-growth forest ecosystems. BIOS, 88(3), 105-115. [https://doi.org/10.1893/0005-3155-88.3.105] (https://doi.org/10.1893/0005-3155-88.3.105)
+[3] Liebman, E., **Yang, J.**, Nave, L. E., Nadelhoffer, K. J., & Gough, C. M. (2017). Soil respiration in upper Great Lakes old-growth forest ecosystems. BIOS, 88(3), 105-115. [https://doi.org/10.1893/0005-3155-88.3.105](https://doi.org/10.1893/0005-3155-88.3.105)
 
 [2] Kindscher, K., Martin, L. M., Long, Q., Craft, R., Loring, H., Sharaf, M. H., & **Yang, J.** (2017). Harvesting and Recolonization of Wild Populations of Oshá (Ligusticum porteri) in Southern Colorado. Natural Areas Journal, 37(2), 178-187. [https://doi.org/10.3375/043.037.0207](https://doi.org/10.3375/043.037.0207)
 
