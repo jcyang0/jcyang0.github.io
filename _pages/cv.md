@@ -9,5 +9,4 @@ classes:  wide
 
 ---
 
-<embed src="https://jcyang0.github.io/assets/CV_postdoc_071724.pdf" type="application/pdf" />
-
+<object data="https://jcyang0.github.io/assets/CV_postdoc_071724.pdf" width="1000" height="1000" type='application/pdf'></object>
