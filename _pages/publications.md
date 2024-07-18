@@ -5,6 +5,8 @@ author_profile: true
 type: page
 classes: wide
 layout: single
+header:
+    overlay_image: /assets/images/banner.jpg
 
 ---
 [8] **Yang, J.C.**, Bowling, D.R., Smith, K.R., Kunik, L., Raczka, B., Anderegg, W.R., … & Litvak, M.E. (2024). Forest carbon uptake as influenced by snowpack and length of photosynthesis season in seasonally snow-covered forests of North America. Agricultural and Forest Meteorology, 353, p.110054.
