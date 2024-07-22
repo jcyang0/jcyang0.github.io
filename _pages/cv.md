@@ -10,4 +10,4 @@ classes:  wide
 ---
 
 
-<embed src="https://jcyang0.github.io/assets/CV_postdoc_071724.pdf" width="500" height="375">
+ <iframe src="https://jcyang0.github.io/assets/CV_postdoc_071724.pdf" width="500" height="375"></iframe>
