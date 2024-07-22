@@ -2,7 +2,7 @@
 title: ""
 layout: single
 permalink: /cv/
-author_profile: false
+author_profile: true
 type:  page
 classes:  wide
 
